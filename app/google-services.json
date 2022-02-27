@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525854015006",
+    "project_id": "word-translator-2",
+    "storage_bucket": "word-translator-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525854015006:android:735f2dfd1bd33413eb380f",
+        "android_client_info": {
+          "package_name": "com.inzi.wordtranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525854015006-75eli3ni07ck1sj98bt3vufm5vbfqda4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8cou64EymPIgCRqANvxIl6tdP34fntro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525854015006-75eli3ni07ck1sj98bt3vufm5vbfqda4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

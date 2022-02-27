@@ -1,0 +1,2 @@
+com/inzi/wordtranslator/BuildConfig.java
+ com.inzi.wordtranslator.BuildConfig
